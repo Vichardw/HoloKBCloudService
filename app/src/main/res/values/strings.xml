@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HoloKBCloudService</string>
+    <string name="title_activity_main">Allow Holo keyboard collection?</string>
+    <string name="servie_usage_strings">\t The Holo collection service focus on improving using experience of Holo keyboard.\n
+     \t It\'ll collect your touch position, touch frequency, touch mistake frequency etc. This data is collected as statistics data. It can\'t be converted to information user inputted. You should not worry about the security of personal information.  <br /> </string>
+    <string name="allow">Yes</string>
+    <string name="deny">No</string>
+    <string name="prompt">Never show it again</string>
+</resources>
